@@ -1,0 +1,22 @@
+.conteiner-header{
+    display: flex;
+    background-color: var(--branco);
+
+}
+
+.conteiner-titulo{
+    display: flex;
+ 
+
+}
+.titulo-header{
+
+    font-weight: 900;
+    font-size: 3em;
+    color: var(--laranja-red);
+}
+
+.links-header{
+    display: block;
+}
+

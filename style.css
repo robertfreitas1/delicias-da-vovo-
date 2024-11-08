@@ -1,0 +1,13 @@
+
+
+@charset "UTF-8" ;
+
+@import url(styles/reset.css);
+
+@import url(styles/header.css);
+
+
+:root{
+    --laranja-red: #FF4B00;
+    --branco: #FFFFFF;
+}
